@@ -27,8 +27,8 @@ showing statistical evidence in favor of BOSME, with respect to the expected (mi
 
 ### R Packages
 The only package used is: bnlearn by Marco Scutari.
-Scutari M (2010). “Learning Bayesian Networks with the bnlearn R Package.” Journal of Statistical Software, 35(3), 1–22. 
-https://doi:10.18637/jss.v035.i03. 
+Scutari M (2010). “Learning Bayesian Networks with the bnlearn R Package.” Journal of Statistical Software, 35(3), 1–22.
+https://www.jstatsoft.org/article/view/v035i03
 
 ## Support
 Contact Rosario Delgado at: rdvolterra16@gmail.com  
