@@ -32,4 +32,4 @@ The only package used is: bnlearn
 Contact Rosario Delgado at: rdvolterra16@gmail.com  
 
 ## License
-Distributed under the MIT License. See LICENSE.txt for more information.
+Distributed under the MIT License. See LICENSE for more information.
