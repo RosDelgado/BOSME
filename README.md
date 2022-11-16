@@ -17,11 +17,17 @@ from the original minority classes by likelihood maximization.
 ## Getting started
 ### Usage 
 #### Script Input: 
-- dataset: R dataframe. Usually, a training dataset, which is unbalanced attending to the binary class variable
-- variable: name of the binary class variable
-- classmin: name of the minority class for which we want to create artificial instances to enlarge the dataset
+- dataset: R dataframe. Usually, a training dataset, which is unbalanced attending to the binary (output) class variable
+           with some input variables or features, that can be numeric (continuous) or factor (categorical)
+- variable: name of the binary class (output) variable (which must be factor)
 - percentage: the percentage we want the minority class represent in the enlarged dataset with the artificially created instances
-- cont: numbwe of the numeric continuous variables in the dataset
+              by default, it is 50
+- iterations: the maximum number of iterations in the wrapper to learn the Bayesian network to be used for over-sampling purposes
+              by default, it is 25  
+
+### Script Output:  
+dataset_plus: R dataframe which is the enlargement of "dataset" with new artificially generated instances of the minority class, 
+              so that the minority class represents a percentage equal to "percentage" of the enlarged dataset "dataset_plus".
 
 ### R Packages
 The only package used is: bnlearn by Marco Scutari.
