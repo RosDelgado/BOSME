@@ -25,6 +25,7 @@ from the original minority classes by likelihood maximization.
 
 ### R Packages
 The only package used is: bnlearn by Marco Scutari.
+
 Scutari M (2010). “Learning Bayesian Networks with the bnlearn R Package.” Journal of Statistical Software, 35(3), 1–22.
 https://www.jstatsoft.org/article/view/v035i03
 
