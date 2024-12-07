@@ -36,7 +36,7 @@ Scutari M (2010). “Learning Bayesian Networks with the bnlearn R Package.” J
 https://www.jstatsoft.org/article/view/v035i03
 
 ## Support
-Contact Rosario Delgado at: rdvolterra16@gmail.com  
+Contact Rosario Delgado at: Rosario.Delgado@uab.cat
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
