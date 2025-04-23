@@ -4,8 +4,7 @@ to implement the over-sampling algorithm BOSME introduced and described in the p
 
 # Bayesian network-based over-sampling method (BOSME) with application to indirect cost-sensitive learning
 ## By R. Delgado and J.D. Núñez-González
-## Scientific Reports 8724(12) 2022
-https://doi.org/10.1038/s41598-022-12682-8
+## Scientific Reports 8724(12) 2022 https://doi.org/10.1038/s41598-022-12682-8
 
 Extract of the abstract:
 Traditional supervised learning algorithms do not satisfactorily solve the classification problem on imbalanced data sets, 
