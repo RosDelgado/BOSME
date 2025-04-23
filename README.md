@@ -2,7 +2,7 @@
 This is a source code from a script written in R programming language by Rosario Delgado and José David Núñez-González 
 to implement the over-sampling algorithm BOSME introduced and described in the paper 
 
-"Bayesian network-based over-sampling method (BOSME) with application to indirect cost-sensitive learning", Scientific Reports 8724(12) 2022
+# Bayesian network-based over-sampling method (BOSME) with application to indirect cost-sensitive learning", Scientific Reports 8724(12) 2022
 https://doi.org/10.1038/s41598-022-12682-8
 
 Extract of the abstract:
